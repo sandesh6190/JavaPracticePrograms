@@ -1,0 +1,19 @@
+<html>
+<head>
+      <title>my website</title>
+<\head>
+<body>
+
+
+<div id="_s" data-movie-id="1" data-show-id="4">
+
+</div>
+
+// in js
+const elm = document.querySelector("#_s");
+
+
+const movieId = elm.dataset.movieId;
+const showId = elm.dataset.showId;
+
+elm.dataset.movieId = data.movieId;

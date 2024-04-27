@@ -1,0 +1,1 @@
+WAP to accept an integer number from client side, dend it to the server through TCP socket programming, square it from the server side and send back the client.

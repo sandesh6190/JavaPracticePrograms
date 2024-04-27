@@ -1,0 +1,14 @@
+ByteStream
+-FileInputStream
+-BufferedInputStream
+-FileOutputStream
+-BufferedOutputStream
+-ObjectOutputStream(Serialization)
+-ObjectInputStream(Deserialization)
+
+
+Character Stream
+-FileReader
+-BufferedReader
+-FileWriter
+-BufferedWriter

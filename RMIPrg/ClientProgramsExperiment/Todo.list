@@ -1,0 +1,3 @@
+Writing only Clint Side Programs (InterfaceProgram, ClientProgram ) and accessing server written by sir
+-sirle server programs(server program, InterfaceProgram, Implementation Program) lekhnu bhayo ani "start rmiregistry" garera rmiregistry banaunu bhayo
+- client ra server duwai eutai network(wifi)ma connect garim ani as usual same run garne
